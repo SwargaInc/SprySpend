@@ -1,13 +1,9 @@
-## What’s SprySpend?
-SprySpend is an open-source end-to-end feature platform that allows you gain insights and recommendations to optimize your Cloud-SaaS and PaaS. SprySpend then provides you with actionable insights and recommendations on how to improve your cloud efficiency, performance. With SprySpend, you can save up to 30-40% on your cloud costs and achieve FinOps excellence.
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="# What’s SprySpend?">Whats SprySpend ?</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -27,6 +23,15 @@ SprySpend is an open-source end-to-end feature platform that allows you gain ins
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+
+
+
+## What’s SprySpend?
+SprySpend is an open-source end-to-end feature platform that allows you gain insights and recommendations to optimize your Cloud-SaaS and PaaS. SprySpend then provides you with actionable insights and recommendations on how to improve your cloud efficiency, performance. With SprySpend, you can save up to 30-40% on your cloud costs and achieve FinOps excellence.
+
+
+
 
 
 Key Features?

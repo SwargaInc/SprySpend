@@ -5,7 +5,7 @@
     <li>
       <a href="# What’s SprySpend?">Whats SprySpend ?</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Key Features">Key Features</a></li>
       </ul>
     </li>
     <li>
@@ -30,11 +30,7 @@
 ## What’s SprySpend?
 SprySpend is an open-source end-to-end feature platform that allows you gain insights and recommendations to optimize your Cloud-SaaS and PaaS. SprySpend then provides you with actionable insights and recommendations on how to improve your cloud efficiency, performance. With SprySpend, you can save up to 30-40% on your cloud costs and achieve FinOps excellence.
 
-
-
-
-
-Key Features?
+#Key Features?
 
 * Ingest data from a variety of Sources: SprySpend can connect to a wide range of cloud platforms (AWS, Google Cloud, Azure, etc.) as well as data warehousing and analytics tools (Databricks, Looker, Snowflake, etc.) to gather comprehensive data for analysis.*
 * Analyze and track cloud spending: SprySpend analyzes the collected data to provide insights into your overall cloud spending patterns and trends.
